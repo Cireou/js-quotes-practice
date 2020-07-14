@@ -10,21 +10,14 @@ load_quotes();
 add_form_funct();
 
 function create_sort_btn(){
-    const h1 = qs("h1");
-
-    const p = ce("p")
-    p.innerText = "Sort by Author: "
-
-    let sort_btn = ce("button");
-    sort_btn.id = "sort_button";
+    let sort_btn = qs("#sort_button");
     sort_btn.innerText = "OFF"
     sort_btn.addEventListener("click", () => {
-        sort_btn.innerText = sort_Text[sort_btn.innerText];
-        load_quotes();
+        if (event.target && event.target.id == "sort_button"){
+            sort_btn.innerText = sort_Text[sort_btn.innerText];
+            load_quotes();
+        }
     })
-
-    p.append(sort_btn);
-    h1.append(p)
 }
 
 
