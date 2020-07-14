@@ -51,10 +51,28 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quote": "\"WOW\"",
-      "author": "\"Me\"",
+      "quote": "Kirby",
+      "author": "Abe",
       "likes": [],
       "id": 11
+    },
+    {
+      "quote": "Kirby",
+      "author": "A",
+      "likes": [],
+      "id": 12
+    },
+    {
+      "quote": "Kirby",
+      "author": "\"\"",
+      "likes": [],
+      "id": 13
+    },
+    {
+      "quote": "Entry",
+      "author": "Likes",
+      "likes": [],
+      "id": 14
     }
   ],
   "likes": [
@@ -139,19 +157,9 @@
       "id": 16
     },
     {
-      "quoteId": 11,
-      "createdAt": 1594739732976,
-      "id": 17
-    },
-    {
-      "quoteId": 11,
-      "createdAt": 1594739733681,
-      "id": 18
-    },
-    {
-      "quoteId": 11,
-      "createdAt": 1594739733817,
-      "id": 19
+      "quoteId": 10,
+      "createdAt": 1594743227676,
+      "id": 20
     }
   ]
 }
