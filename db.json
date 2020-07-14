@@ -51,7 +51,9 @@
       "author": "Sonia Sotomayor"
     },
     {
-      "quoteId": 2,
+      "quote": "\"WOW\"",
+      "author": "\"Me\"",
+      "likes": [],
       "id": 11
     }
   ],
@@ -60,6 +62,96 @@
       "id": 1,
       "quoteId": 1,
       "createdAt": 1558524356
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1594739667851,
+      "id": 2
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1594739716082,
+      "id": 3
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1594739716630,
+      "id": 4
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1594739717006,
+      "id": 5
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1594739717678,
+      "id": 6
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1594739717866,
+      "id": 7
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1594739718050,
+      "id": 8
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1594739722050,
+      "id": 9
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1594739722206,
+      "id": 10
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1594739722372,
+      "id": 11
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1594739722514,
+      "id": 12
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1594739722684,
+      "id": 13
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1594739722824,
+      "id": 14
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1594739722968,
+      "id": 15
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1594739723502,
+      "id": 16
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594739732976,
+      "id": 17
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594739733681,
+      "id": 18
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1594739733817,
+      "id": 19
     }
   ]
 }
